@@ -39,7 +39,7 @@ makeCacheMatrix <- function(x = matrix()) {
 ####################################################################
 # cacheSolve function
 # parameter x: a reference to a makeCacheMatrix object
-#         ...: additional solve() parameters
+#         ...: additional parameters for the solve() function
 # description: calculates and caches the inverse for a square matrix
 ####################################################################
 
